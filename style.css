@@ -1,0 +1,162 @@
+/* this is google font linke */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caveat+Brush&family=DynaPuff:wght@400;500;600&family=Fjalla+One&family=Fredoka+One&family=Grape+Nuts&family=Kaushan+Script&family=Koulen&family=Merienda&family=Merriweather+Sans:ital@1&family=Odibee+Sans&family=Orelega+One&family=Oswald:wght@200;300;400;500;600;700&family=PT+Serif&family=Pacifico&family=Pangolin&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,900;1,400&family=Rubik+Wet+Paint&family=Tiro+Tamil:ital@0;1&family=Ubuntu:wght@300;400&display=swap');
+/* this is google font linke */
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+ }
+#navbar{
+    width: auto;
+    background-color: #C1C1C3;
+}
+.facebook-logo{
+    width: 154%;
+}
+.phone-logo{
+    width: 13%;
+    position: relative;
+    bottom: 2px;
+}
+.coll-phone{
+    transition: 1s;
+}
+.coll-phone:hover{
+         text-decoration: underline 3px orange;
+}
+.coll-gmail{
+    transition: 0.5s;
+}
+.coll-gmail:hover{
+    text-decoration: underline 3px orange;
+}
+/* #my-sider-bar{
+    width: auto;
+    background-color: #C1C1C3;
+}
+#position-sider{
+    height: 400px;
+} */
+/* .sider-img{
+    width: 807px;
+    height: 50%;
+    position: relative;
+    left: 160px;
+} */
+#my-home-page{
+    background: #1f4037;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 437px;
+    margin-top: 56px;
+  }
+ .facebook-link{
+    background-color: red;
+    padding: 12px 53px;
+    /* width: 166px; */
+    border: none;
+    position: relative;
+    border-radius: 21px;
+    top: 8px;
+    font-family: 'Rubik Wet Paint', cursive;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+ }
+ .facebook-link:hover{
+    background-color: white;
+    color: black;
+ }
+ .my-h1{
+   line-height: 50px;
+   font-family: 'PT Serif', serif;
+   font-weight: 600;
+ }
+ .my-h2{
+    font-family: 'Tiro Tamil', serif;
+    font-weight: bolder;
+    color: white;
+ }
+ .my-p{
+    line-height: 21px;
+    text-align: justify;
+    text-shadow: 2px 5px 10px;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: white;
+ }
+ .profile-pic{
+    width: 77%;
+    position: relative;
+    left: 84px;
+    top: 9px;
+    border-radius: 50%;
+ }
+ #card-part{
+     margin-top: 31px;
+  }
+ .card-desing-part{
+    margin-top: 40px;
+   }
+  .card-desing-part img{
+    width: 371px;
+    height: 283px;
+   }
+   
+ .img-one{
+  position: relative;
+  left: 2px;
+  top: -1px;
+  /* width: 287px; */
+  height: 263px !important;
+ }
+ .img-two{
+    position: relative;
+    position: relative;
+    left: 2px;
+    top: -1px;
+    /* width: 287px; */
+    height: 263px !important;
+  
+  }
+ .img-three{
+     position: relative;
+    left: 2px;
+    top: -1px;
+    /* width: 287px; */
+    height: 263px !important;
+  
+}
+ .img-four{
+     position: relative;
+    left: 2px;
+    top: -1px;
+    width: 287px;  
+    height: 263px !important;
+  
+}
+#choto-card{
+    background-color: #C1C1C3;
+    margin-top: 27px;
+}
+#wellcome{
+    width: auto;
+     margin-top: 40px;
+}
+#background-img{
+    width: auto;
+    height: 508px !important;
+}
+.bootstrap-img{
+    height: 450px !important;
+}
+#choto-card-computer{
+     margin-top: 40px;
+    border: none;
+}
+#fotter{
+    margin-top: 40px;
+}
+.small{
+    color: rgb(1, 179, 173) !important;
+}
+ 
